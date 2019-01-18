@@ -1,8 +1,11 @@
 # DINK
+开放可实际落地自动驾驶框架
+
 Open Practical Autonomous Driving Framework
 
-DINK:为什么中国人不能研发底层框架？
-DINK:Why can't the Chinese develop the infrastructure framework?
+# DINK:为什么中国人不能研发底层框架？
+
+# DINK:Why can't the Chinese develop the infrastructure framework?
 
 
 ![DINK](img/dink.jpg)
